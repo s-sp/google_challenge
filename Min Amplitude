@@ -1,3 +1,6 @@
+lesson: if you see a small fixed number, here: k = 3, simply hard code all the combinations 
+instead of writing a generalized algorithm.
+
 Given an Array A, find the minimum amplitude you can get after changing up to 3 elements. Amplitude is the range of the array (basically difference between largest and smallest element).
 
 Example 1:
